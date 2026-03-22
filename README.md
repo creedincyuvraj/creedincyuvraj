@@ -125,14 +125,16 @@ Primary work right now:
   <img src="https://lanyard.cnrad.dev/api/1441864715495014494?theme=dark&bg=000000&borderRadius=46px&animated=true" />
 </p>
 
-## Stack
+---
 
+# Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,git,github,redis,mongodb" />
 </p>
 
-## Network
+---
 
+## Network
 <p align="center">
   <a href="https://discord.gg/YCaKDSX69n"><img src="https://img.shields.io/badge/DISCORD SERVER-000000?style=for-the-badge&logo=discord&logoColor=00f7ff"/></a>
   <a href="https://instagram.com/creedyuvraj"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ff00ff"/></a>
